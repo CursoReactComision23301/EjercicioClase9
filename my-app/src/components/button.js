@@ -1,5 +1,5 @@
 export default function Button() {
     return (
-    <button>El Boton React desde el JSX</button>
+    <button id='button'>El Boton React desde el JSX</button>
     );
 }
